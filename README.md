@@ -55,9 +55,3 @@
   <img src="https://streak-stats.demolab.com?user=Mukund2828&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<h3 align="left">My commit history:-</h3>
-
-###
-
